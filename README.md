@@ -2,7 +2,7 @@
 
 Отправка email по адресу с текстом и выдержкой
 
-  * Отправка через sendgrid.com *
+  -* Отправка через sendgrid.com *-
   
 
 python -m venv env
